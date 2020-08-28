@@ -1,7 +1,6 @@
-  
-USE burger_db;
+USE oas5si2aunpdrvyj;
 
-INSERT INTO burgers (name, devoured )
+INSERT INTO burgers (name,devoured )
 VALUES ('californiaburger', false),
   ('doubleburger', false),
   ('hawaiinburger',false);
