@@ -1,6 +1,6 @@
 
 const router = require('express').Router()
-const grocery = require('../models/grocery.js')
+const burger = require('../models/burgers.js')
 
 // Get all burgers
 router.get('/burgers', (req, res) => {
